@@ -21,5 +21,5 @@ cd ./GeoIP <br>
 [*] IP address XXX.XXX.XXX.XXX is located:<br>
 [+] country:  Germany<br>
 [+] region:  Bavaria<br>
-[+] postal code:  88131<br>
+[+] zip code:  88131<br>
 [+] city:  Lindau<br>
