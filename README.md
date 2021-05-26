@@ -1,4 +1,6 @@
-geoip is a simple command line tool that uses ipinfo.io's public API to get informations on public IP address. Basically geoip retrieves localisation informations. 
+<img width="300" src="http://fey.toile-libre.org/ip-loc.png"></img>
+
+GeoIP is a simple command line tool that uses ipinfo.io's public API to get informations on public IP address. Basically geoip retrieves localisation informations. 
 
 This is Open source code feel free to modify and distribute it since you don't disturb ipinfo.io.
 
@@ -6,9 +8,9 @@ NB: This is not a ipinfo.io tool. GeoIP just uses their API.
 
 <h3> Set up </h3>
 
-~$ git clone https://github.com/MrFey/GeoIP.git <br>
-~$ cd ./GeoIP <br>
-~$ ./setup.sh <br>
+git clone https://github.com/MrFey/GeoIP.git <br>
+cd ./GeoIP <br>
+./setup.sh <br>
 
 <h3> UsaGeoIPge </h3>
 
