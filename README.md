@@ -8,10 +8,10 @@ NB: This is not a ipinfo.io tool geoip just uses their API.
 
 Usage: geoip <IPv4 address>
 
-- - Example - - 
-$ geoip XXX.XXX.XXX.XXX
-[*] IP address XXX.XXX.XXX.XXX is located:
-[+] country:  Germany
-[+] region:  Bavaria
-[+] postal code:  88131
-[+] city:  Lindau
+<h3> Example </h3>
+~$ geoip XXX.XXX.XXX.XXX <br>
+[*] IP address XXX.XXX.XXX.XXX is located:<br>
+[+] country:  Germany<br>
+[+] region:  Bavaria<br>
+[+] postal code:  88131<br>
+[+] city:  Lindau<br>
