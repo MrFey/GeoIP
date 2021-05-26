@@ -8,7 +8,7 @@ NB: This is not a ipinfo.io tool geoip just uses their API.
 
 Usage: geoip <IPv4 address>
 
-<h3> Example <h3>
+<h3> Example </h3>
 $ geoip XXX.XXX.XXX.XXX
 [*] IP address XXX.XXX.XXX.XXX is located:
 [+] country:  Germany
