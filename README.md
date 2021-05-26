@@ -10,7 +10,7 @@ git clone https://github.com/MrFey/GeoIP.git <br>
 cd ./GeoIP <br>
 ./setup.sh <br>
 
-<h3> UsaGeoIPge </h3>
+<h3> Usage </h3>
 
 ./geoip.py "IPv4 address"
 
