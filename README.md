@@ -7,8 +7,8 @@ NB: This is not a ipinfo.io tool. GeoIP just uses their API.
 <h3> Set up </h3>
 
 ~$ git clone https://github.com/MrFey/GeoIP.git <br>
-~$ cd ./GeoIP
-~$ ./setup.sh
+~$ cd ./GeoIP <br>
+~$ ./setup.sh <br>
 
 <h3> UsaGeoIPge </h3>
 
