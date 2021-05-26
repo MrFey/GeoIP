@@ -3,7 +3,7 @@
 #-- py-version: 3.*  --#
 
 '''
-This open source code base on ipinfo's api.
+This open source code based on ipinfo.io's api.
 '''
 from termcolor import colored
 import country_converter as cc
