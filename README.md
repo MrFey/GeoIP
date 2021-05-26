@@ -14,10 +14,10 @@ cd ./GeoIP <br>
 
 <h3> UsaGeoIPge </h3>
 
-./geoip "IPv4 address"
+./geoip.py "IPv4 address"
 
 <h3> Example </h3>
-~$ ./geoip XXX.XXX.XXX.XXX <br>
+~$ ./geoip.py XXX.XXX.XXX.XXX <br>
 [*] IP address XXX.XXX.XXX.XXX is located:<br>
 [+] country:  Germany<br>
 [+] region:  Bavaria<br>
