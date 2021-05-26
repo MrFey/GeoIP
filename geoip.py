@@ -50,7 +50,7 @@ def print_infos(ip, infos):
           colored(ip, "yellow"), "is located:")
     print(colored("[+]", "green"), 'country: ', colored(country, "green"))
     print(colored("[+]", "green"), 'region: ', colored(region, "green"))
-    print(colored("[+]", "green"), 'postal code: ', colored(code_post, "green"))
+    print(colored("[+]", "green"), 'zip code: ', colored(code_post, "green"))
     print(colored("[+]", "green"), 'city: ', colored(city, "green"))
 
 
