@@ -9,7 +9,7 @@ NB: This is not a ipinfo.io tool. GeoIP just uses their API.
 Usage: geoip <IPv4 address>
 
 <h3> Example </h3>
-~$ geoip XXX.XXX.XXX.XXX <br>
+~$ ./geoip XXX.XXX.XXX.XXX <br>
 [*] IP address XXX.XXX.XXX.XXX is located:<br>
 [+] country:  Germany<br>
 [+] region:  Bavaria<br>
