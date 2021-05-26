@@ -4,9 +4,9 @@ This is Open source code feel free to modify and distribute it since you don't d
 
 NB: This is not a ipinfo.io tool. GeoIP just uses their API.
 
+<h3> Usage </h3>
 
-
-Usage: geoip <IPv4 address>
+./geoip "IPv4 address"
 
 <h3> Example </h3>
 ~$ ./geoip XXX.XXX.XXX.XXX <br>
